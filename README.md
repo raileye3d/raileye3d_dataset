@@ -25,6 +25,11 @@ Each sequence name contains a prefix corresponding to one of the following railw
 ## Licence
 The RailEye3D dataset is released to academic and non-academic entities for non-commercial purposes such as academic research, teaching, scientific publications, or personal experimentation ([LICENCE](LICENCE)).
 
+
+## Acknowledgement
+We would like to thank our industry partner EYYES GmbH and the Federal Austrian Railways (ÖBB) for enabling the recordings, and Marlene Glawischnig and Vanessa Klugsberger for support in annotation.
+
+
 ## Citing
 If you use the dataset for your research, please use the following BibTeX entry.
 
