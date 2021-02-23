@@ -34,10 +34,11 @@ We would like to thank our industry partner EYYES GmbH and the Federal Austrian 
 If you use the dataset for your research, please use the following BibTeX entry.
 
 ```BibTeX
-@misc{Wallner2021RailEye3D,
-  author =       {Marco Wallner and Daniel Steininger and Verena Widhalm and Matthias Schoerghuber and Csaba Beleznai},
-  title =        {RGB-D Railway Platform Monitoring and Scene Understanding for Enhanced Passenger Safety},
-  howpublished = {\url{http://campus.pub.ro/RISS2020/program.html}},
-  year =         {2021}
+@InProceedings{10.1007/978-3-030-68787-8_47,
+  author    = {Marco Wallner and Daniel Steininger and Verena Widhalm and Matthias Schoerghuber and Csaba Beleznai},
+  title     = {RGB-D Railway Platform Monitoring and Scene Understanding for Enhanced Passenger Safety},
+  booktitle = {Pattern Recognition. ICPR International Workshops and Challenges},
+  publisher = {Springer International Publishing},
+  year      = {2021}
 }
 ```
