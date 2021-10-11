@@ -3,7 +3,7 @@
 
 This repository provides annotations for the RailEye3D dataset, a collection of train-platform scenarios for applications targeting passenger safety and automation of train dispatching. 
 It consists of 10 image sequences captured at 6 railway stations in Austria.
-The corresponding image data can be requested by [email](mailto:daniel.steininger@ait.ac.at).
+The corresponding image data can be requested by [email](mailto:daniel.steininger@ait.ac.at) (please provide your full name, affiliation and intended use of the dataset).
 
 
 ## Annotation Format
